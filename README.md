@@ -7,7 +7,7 @@
 #### Connect with me:
 
 [<img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/chickenfoot88/chickenfoot88/master/assets/telegram.svg"/>][telegram]
-[<img align="left" alt="VK" width="22px" src="https://raw.githubusercontent.com/chickenfoot88/chickenfoot88/master/assets/vk.svg"/>][telegram]
+[<img align="left" alt="VK" width="22px" src="https://raw.githubusercontent.com/chickenfoot88/chickenfoot88/master/assets/vk.svg"/>][vkontakte]
 
 <br/>
 <br/>
