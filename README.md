@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenfoot88&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenfoot88&layout=compact)](https://github.com/chickenfoot88)
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chickenfoot88) -->
 
