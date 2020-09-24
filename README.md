@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-[<img align="right" width="22px" src="https://raw.githubusercontent.com/chickenfoot88/chickenfoot88/master/assets/chickenfoot.png"/>](https://en.wikipedia.org/wiki/Chickenfoot)
+[<img align="right" width="22px" src="https://raw.githubusercontent.com/chickenfoot88/chickenfoot88/master/assets/chickenfoot.png"/>](https://en.wikipedia.org/wiki/Chickenfoot){:target="_blank"}
 
 [website]: https://adel-ismagilov.ru
 [telegram]: https://t.me/chickenfoot88
